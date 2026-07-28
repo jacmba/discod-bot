@@ -1,0 +1,7 @@
+config.json
+message.txt
+
+__pycache__/
+*.pyc
+.venv/
+venv/
